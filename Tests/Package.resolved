@@ -1,0 +1,42 @@
+{
+  "originHash" : "d27088636486b62164b29a78a52f22ce4298461efcda62a9c81fb75a33fdf8c8",
+  "pins" : [
+    {
+      "identity" : "atomos",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-lco/Atomos.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "857fa1b7d1975fe17d52e21c154f92ba5e696be3"
+      }
+    },
+    {
+      "identity" : "dsl",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-dsl/DSL.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "d6c5c62eef57fed529d68fb970ef38e226ba0f64"
+      }
+    },
+    {
+      "identity" : "primitives",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-lco/Primitives.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "05431e58c105831a155d4a3759309ff1e1e30a88"
+      }
+    },
+    {
+      "identity" : "schema",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-lco/Schema.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "cc3b5e9411676439a849926be1a9c08e26d41597"
+      }
+    }
+  ],
+  "version" : 3
+}

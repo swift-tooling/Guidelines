@@ -82,7 +82,8 @@ func structuredContentAuthoringTest() throws {
 
     guard
         case .quote(
-            let quote
+            let quote,
+            _
         ) = explanation[2],
         case .paragraph(
             let quotedParagraph
